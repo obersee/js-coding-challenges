@@ -1,2 +1,2 @@
 # js-coding-challenges
-JavaScript Coding Challenges Repository
+JavaScript Coding Challenges Solution Repository
